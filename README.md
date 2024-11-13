@@ -9,6 +9,6 @@
 낚시는 구현하지 못해 결국 포인트로 가서 f키로 자동 낚시가 되도록(?) 구현하였습니다.
 낚시가 사실 운빨이 중요한 것 처럼, f키로 낚시를 진행하되 랜덤으로 이익을 얻도록 하였습니다.
 
+<img width="1165" alt="스크린샷 2024-03-19 161114" src="https://github.com/user-attachments/assets/084f4cc2-1bbb-4800-b639-2c3de804cfb2">
+![Capture001](https://github.com/user-attachments/assets/881c2c7b-b0fd-43d5-9c97-2b8d24e84cfe)
 
-
-![Uploading Capture001.png…]()
