@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
-
+//배를 컨트롤 하는 스크립트
 public class BoatController : MonoBehaviour
 {
     public PropellerBoats ship;
